@@ -1,0 +1,14 @@
+Tytuł z presktyptu
+
+Kto i na czym polega sprawozdanie
+
+Założenia
+Opisać Klasy
+Pozyskanie pól treningowych
+Obraz pól treningowych
+Tworzenie sygnatur
+Analiza sygnatur
+Miara rozłączności
+Histogram dwuwymiarowy
+Komentarz
+ErrMat
